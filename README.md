@@ -1,7 +1,7 @@
 
 # data-analytics-covid-predict
 
-This repository involves training and evaluating prediction models on a COVID-19 dataset provided by the Centers for Disease Control and Prevention (CDC) that was cleaned prior to prediction.
+This repository involved training and evaluating prediction models on a COVID-19 dataset provided by the Centers for Disease Control and Prevention (CDC) that was cleaned prior to prediction.
 
 The dataset provided has de-identified patient data including COVID severity indicators, outcomes, clinical data and laboratory test results.
 
